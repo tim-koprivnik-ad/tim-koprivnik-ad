@@ -29,7 +29,7 @@ PRIMARY TECHNICAL SKILLS:
 - Familiarity with modern front-end frameworks (React, Vue, Frontity) -- currently improving my React knowledge
 - Familiarity with modern back-end frameworks (Laravel)
 - Mid-senior knowledge of WordPress
-- Junior-mid knowledge of Drupal (site-building and FE stuff)
+- Mid knowledge of Drupal (site-building and FE stuff)
 - Proficiency with Docker and other local environment setups (XAMPP/MAMP)
 - Knowledge of interacting with APIs
 - Proficiency with code versioning tools, namely GIT (GitHub, GitLab, Bitbucket, GitHub Desktop, …)
