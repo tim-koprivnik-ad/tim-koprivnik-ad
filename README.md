@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------
 
-I have close to 4 years of experience as a Web (Frontend) Developer (& a bit of UX Designer).
-
 PRIMARY TECHNICAL SKILLS:
 - Senior knowledge of HTML, CSS, Sass/SCSS and Bootstrap
 - Mid knowledge of JavaScript (ES6) and jQuery
