@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello fellow apes! 👋
 
-🙋‍♂️ My name is Tim and I'm a self-taught Web (Frontend) Developer (& a bit of Designer) with humanistic and social background, in search of a peaceful, intentional, and unstressed life, who likes to learn new things, self-improve, read, watch docuseries, do sports, travel and meet unique people. Two things I cannot live without are chill music and the feeling of not being stuck. One of the mottos I try to remind myself daily is, “Above all else, be kind.”
+🙋‍♂️ My name is Tim and I'm a self-taught Frontend (Web) Developer (& a bit of Designer) with humanistic and social background, in search of a peaceful, intentional, and unstressed life, who likes to learn new things, self-improve, read, watch docuseries, do sports, travel and meet "weird" people. Two things I cannot live without are chill music and the feeling of not being stuck. One of my "vulgar" life goals is to witness a world where money (or materialistic shit in general) wouldn't be the primary goal of it all and exploitation not an everyday human relation. Above all else, I try to be fair and empathetic, and I expect the same thing from anyone else.
 
 ---------------------------------------------------------------------------------------------------------
 
