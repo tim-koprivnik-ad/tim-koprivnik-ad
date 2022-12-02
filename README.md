@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello, fellow apes! 👋
 
-🙋‍♂️ My name is Tim and I'm a self-taught Frontend (Web) Developer (& a bit of Designer) with humanistic and social background, in search of a peaceful, intentional, and unstressed life, who likes to learn new things, self-improve, read, watch (docu)series, do sports, travel, and meet unique people. Two things I cannot live without are chill music and the feeling of not being stuck. One of my idealistic life goals is to witness a world where money (or materialistic bs in general) wouldn't be the primary goal of it all, and exploitation not an everyday human relation. Above all else, I try to be fair and empathetic, and I expect the same thing from anyone else. In the end, I'm like Newton's 3rd law -- I give what I get.
-
----------------------------------------------------------------------------------------------------------
-
-"Hard" skills:
-I'm an open-minded averagely-dressed ape in search of a peaceful, intentional, and unstressed life, who likes to learn new things, self-improve, read, watch (docu)series, do sports, travel, and meet unique people. Two things I cannot live without are chill music and the feeling of not being stuck. One of my idealistic life goals is to witness a world where money (or materialistic bs in general) wouldn't be the primary goal of it all, and exploitation not an everyday human relation. Above all else, I try to be fair and empathetic, and I expect the same from anyone else. In the end, I'm like Newton's 3rd law -- I give what I get.
+🙋‍♂️ I'm an open-minded averagely-dressed ape in search of a peaceful, intentional, and unstressed life, who likes to learn new things, self-improve, read, watch (docu)series, do sports, travel, and meet unique people. Two things I cannot live without are chill music and the feeling of not being stuck. One of my idealistic life goals is to witness a world where money (or materialistic bs in general) wouldn't be the primary goal of it all, and exploitation not an everyday human relation. Above all else, I try to be fair and empathetic, and I expect the same from anyone else. In the end, I'm like Newton's 3rd law -- I give what I get.
 
 ---------------------------------------------------------------------------------------------------------
 
