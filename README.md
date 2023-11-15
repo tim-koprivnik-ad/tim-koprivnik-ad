@@ -22,9 +22,9 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 
 ### “Soft” skills
 
-- Fluent in English with advanced proficiency in written and verbal communication
-- Consistently reliable, dedicated, and self-motivated, with a track record to prove it
-- Inherent curiosity (about emerging technologies) and a constant desire to learn and adapt
-- Methodical and organized in approach, accompanied by an unyielding desire for personal and professional growth
+- Fluency in English
+- Consistent reliability, dedication, and self-motivation
+- Inherent curiosity with a constant desire to learn and improve
+- Methodical and organized in approach to work, with a strong attention to detail
 - Possessing an open-minded and fair attitude, underscored by a commitment to kindness in interpersonal interactions
-- Natural ability to understand and relate to diverse human behavior
+- Natural ability to understand and relate to diverse human behavior and perspectives
